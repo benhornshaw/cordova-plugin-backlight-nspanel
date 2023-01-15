@@ -8,7 +8,7 @@ Note: this plugin only works for Android for now, help wanted for iOs implementa
 
 Add the plugin using cordova cli:
 ```bash
-cordova plugin add cordova-plugin-backlight
+cordova plugin add https://github.com/benhornshaw/cordova-plugin-backlight-nspanel.git
 ```
 
 ## Javascript Interface
